@@ -37,5 +37,6 @@ A simple implementation of a Generative Adversarial Network(GAN) using Pytorch o
 
 ### Training from 0 to 300 epochs at 8 epochs per second:
 
+![gans_training](https://user-images.githubusercontent.com/112173249/196141851-f8a418a6-95d6-4b93-9de8-894e10952fe4.gif)
 
 
